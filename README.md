@@ -1,0 +1,1 @@
+This is a repository for my project on job across US of different sectors as featured by monster website. It involved shiny app by using R for coding. I have uploaded all files needed to access and run the coding in R. 
